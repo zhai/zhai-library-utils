@@ -1,4 +1,4 @@
-package com.zhaisoft.lib.utils;
+package com.zhaisoft.lib.util;
 
 import org.junit.Test;
 

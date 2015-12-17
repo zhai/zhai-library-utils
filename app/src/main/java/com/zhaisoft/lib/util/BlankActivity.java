@@ -1,4 +1,4 @@
-package com.zhaisoft.lib.utils;
+package com.zhaisoft.lib.util;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

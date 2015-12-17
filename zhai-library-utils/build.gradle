@@ -4,7 +4,8 @@ apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
 
-version = "0.0.1"
+version = "0.0.4"
+
 
 
 android {
@@ -30,9 +31,6 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.1.1'
 }
-
-
-
 
 def siteUrl = 'https://github.com/zhaizi/zhai-library-utils'                        // #CONFIG# // project homepage
 def gitUrl = 'https://github.com/zhaizi/zhai-library-utils.git'                     // #CONFIG# // project git
@@ -105,3 +103,4 @@ bintray {
         publish = true
     }
 }
+
