@@ -9,24 +9,40 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9252e03-f331-4253-9ab8-421c987cdf53" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/BASE64.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/AES.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/Base64.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/DataConverter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/MapCache.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/Validator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/VeDateUtil.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/images/ImageUtil.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/design_23_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/design_23_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_23_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="e9252e03-f331-4253-9ab8-421c987cdf53" name="Default" comment="添加了几个库">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/libs/BASE64.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/ActivityUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/DateTimeUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/DialogUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/DnsManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/HttpRequestUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/ImageUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/ImeUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/IpUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/ListViewUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/LogUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/MD5Util.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/MathUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/NetUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/PackageUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/PropertyUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/RegExpUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/ServiceUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/SharedPreferencesUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/StringUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/SystemUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/TimeUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/VersionUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/image/AsyncBitmapLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/image/AsyncImageLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/image/AsyncLocalImageLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/image/AsyncThumbnailImageLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/image/DownloadImage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhai-library-utils/zhai-library-utils-zhai-library-utils.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zhai-library-utils/build.gradle" afterPath="$PROJECT_DIR$/zhai-library-utils/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zhai-library-utils/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/AES.java" afterPath="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/AES.java" />
     </list>
     <ignored path="zhai-library-utils.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,25 +63,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AsyncBitmapLoader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/image/AsyncBitmapLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#737#872#0" expanded="true" />
+                <element signature="e#871#872#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AsyncLocalImageLoader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/image/AsyncLocalImageLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/LogUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SystemUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/SystemUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="181" column="13" selection-start-line="181" selection-start-column="13" selection-end-line="181" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="DateTimeUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/DateTimeUtil.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#703#704#0" expanded="true" />
-                <element signature="e#759#760#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AES.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/AES.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-52.22222">
-              <caret line="94" column="18" selection-start-line="94" selection-start-column="18" selection-end-line="94" selection-end-column="18" />
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,85 +123,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VeDateUtil.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/VeDateUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39757207">
-              <caret line="1137" column="24" selection-start-line="1137" selection-start-column="24" selection-end-line="1137" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataConverter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/DataConverter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MapCache.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/MapCache.java">
+      <file leaf-file-name="AsyncThumbnailImageLoader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/image/AsyncThumbnailImageLoader.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Validator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/Validator.java">
+      <file leaf-file-name="AsyncImageLoader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/image/AsyncImageLoader.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApplicationTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/androidTest/java/com/zhaisoft/lib/utils/ApplicationTest.java">
+      <file leaf-file-name="ServiceUtil.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/ServiceUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.25862068">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ImageUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/ImageUtil.java">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+            <state vertical-scroll-proportion="-3.75">
+              <caret line="6" column="40" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+      <file leaf-file-name="SharedPreferencesUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/SharedPreferencesUtil.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="72" selection-start-line="11" selection-start-column="8" selection-end-line="12" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zhai-library-utils/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+              <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -167,6 +183,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="zhai" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -2621,7 +2642,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/ImageUtil.java" />
         <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/DateTimeUtil.java" />
         <option value="$PROJECT_DIR$/zhai-library-utils/build.gradle" />
         <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/AES.java" />
@@ -2629,11 +2649,31 @@
         <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/DataConverter.java" />
         <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/MapCache.java" />
         <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/VeDateUtil.java" />
+        <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/DnsManager.java" />
+        <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/image/image/DownloadImage.java" />
+        <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/ImeUtil.java" />
+        <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/ActivityUtil.java" />
+        <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/DialogUtil.java" />
+        <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/IpUtil.java" />
+        <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/ListViewUtil.java" />
+        <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/StringUtils.java" />
+        <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/image/AsyncBitmapLoader.java" />
+        <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/image/DownloadImage.java" />
+        <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/HttpRequestUtil.java" />
+        <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/ImageUtil.java" />
+        <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/HttpUtil.java" />
+        <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/SharedPreferencesUtil.java" />
+        <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/image/AsyncLocalImageLoader.java" />
+        <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/SystemUtil.java" />
+        <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/UpdateUtil.java" />
+        <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/image/AsyncThumbnailImageLoader.java" />
+        <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/image/AsyncImageLoader.java" />
+        <option value="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/ServiceUtil.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-58" />
+    <option name="x" value="3" />
     <option name="y" value="33" />
     <option name="width" value="1440" />
     <option name="height" value="803" />
@@ -2645,11 +2685,11 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+    <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -2665,122 +2705,6 @@
     <panes>
       <pane id="Scope">
         <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="zhai-library-utils-zhai-library-utils">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="zhai-library-utils">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="zhai-library-utils-zhai-library-utils">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="zhai-library-utils">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="src">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="zhai-library-utils-zhai-library-utils">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="zhai-library-utils">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="src">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="main">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="zhai-library-utils-zhai-library-utils">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="zhai-library-utils">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="src">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="main">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="res">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="zhai-library-utils-zhai-library-utils">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="zhai-library-utils">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="src">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="main">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="java">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="zhai-library-utils">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
           <PATH>
             <PATH_ELEMENT USER_OBJECT="Root">
               <option name="myItemId" value="" />
@@ -2818,55 +2742,28 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zhai-library-utils-zhai-library-utils" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="utils" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zhai-library-utils" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zhai-library-utils-zhai-library-utils" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="utils" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zhai-library-utils" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zhai-library-utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="device.picker.selection" value="DU2SSE15A7113579" />
+    <property name="device.picker.selection" value="192.168.56.101:5555" />
     <property name="android.project.structure.last.selected" value="zhai-library-utils" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/zhai-library-utils/src/main/java" />
@@ -2877,6 +2774,7 @@
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils" />
+      <recent name="$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/image" />
       <recent name="$PROJECT_DIR$/zhai-library-utils/src/main/libs" />
     </key>
   </component>
@@ -3145,11 +3043,18 @@
       <option name="number" value="Default" />
       <updated>1450341148062</updated>
     </task>
+    <task id="LOCAL-00001" summary="添加了几个库">
+      <created>1450426613609</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1450426613609</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-58" y="33" width="1440" height="803" extended-state="0" />
-    <editor active="false" />
+    <frame x="3" y="33" width="1440" height="803" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -3166,13 +3071,13 @@
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32896653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287841" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32751092" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -3192,6 +3097,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加了几个库" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了几个库" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -3318,31 +3227,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/ImageUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/androidTest/java/com/zhaisoft/lib/utils/ApplicationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/DateTimeUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#703#704#0" expanded="true" />
-            <element signature="e#759#760#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3392,11 +3281,184 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/VeDateUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39757207">
-          <caret line="1137" column="24" selection-start-line="1137" selection-start-column="24" selection-end-line="1137" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1147" column="13" selection-start-line="1147" selection-start-column="13" selection-end-line="1147" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/DnsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/ImeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/ActivityUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/DialogUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/IpUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/ListViewUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/image/DownloadImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/HttpRequestUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.2222223">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/ImageUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="592" column="48" selection-start-line="592" selection-start-column="48" selection-end-line="592" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#20885#20917#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/SharedPreferencesUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/image/AsyncBitmapLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#737#872#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/image/AsyncLocalImageLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/LogUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/SystemUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="181" column="13" selection-start-line="181" selection-start-column="13" selection-end-line="181" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/DateTimeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/image/AsyncThumbnailImageLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/image/AsyncImageLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhai-library-utils/src/main/java/com/zhaisoft/lib/utils/ServiceUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25862068">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
