@@ -9,6 +9,8 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.zhaisoft.lib.utils.SystemUtil;
+
 public class BlankActivity extends AppCompatActivity {
 
     @Override
@@ -17,6 +19,10 @@ public class BlankActivity extends AppCompatActivity {
         setContentView(R.layout.activity_blank);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+
+
+        SystemUtil.runCmd("screenrecord /sdcard/FILENAME.mp4");
+
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {

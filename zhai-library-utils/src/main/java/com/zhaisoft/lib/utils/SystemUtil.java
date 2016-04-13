@@ -280,7 +280,7 @@ public class SystemUtil {
         return true;
     }
 
-    public boolean runCmd(String cmd) {
+    public static boolean runCmd(String cmd) {
         Process process = null;
         DataOutputStream os = null;
         try {
